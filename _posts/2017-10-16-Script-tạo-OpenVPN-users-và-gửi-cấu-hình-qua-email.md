@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Original Script and Author: [Jasonschaefer](http://jasonschaefer.com/stuff/easyrsa-user-setup-vyos.sh.txt)
 
