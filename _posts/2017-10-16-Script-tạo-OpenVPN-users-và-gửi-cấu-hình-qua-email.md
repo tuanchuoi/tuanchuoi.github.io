@@ -1,10 +1,10 @@
 ---
 published: true
 ---
-
+---
 layout: post
-title: 'aa'
-
+title: 'Bài viết '
+---
 Original Script and Author: [Jasonschaefer](http://jasonschaefer.com/stuff/easyrsa-user-setup-vyos.sh.txt)
 
 I edited/added some lines to make it can sends the configuration to email.
